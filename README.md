@@ -33,7 +33,7 @@ Le développeur utilise un MCP pour permettre à son agent d’interagir avec un
 ### Tâche 5 : Outils de collaboration
 
 **Exemple :**  
-Deux développeurs travaillent sur le même projet avec Git et GitHub afin de partager leurs modifications et gérer les différentes versions du code.
+Deux développeurs travaillent sur le même projet avec  trello afin de partager leurs modifications et gérer les différentes versions du code.
 
 ---
 
