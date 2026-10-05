@@ -19,7 +19,7 @@ Le développeur utilise une Skill spécialisée pour effectuer une tâche préci
 ### Tâche 3 : Documentation
 
 **Exemple :**  
-Le développeur consulte la documentation officielle de PHP pour comprendre le fonctionnement d’une fonction qu’il souhaite utiliser.
+Le développeur consulte la documentation officielle du HTML et du CSS pour comprendre l’utilisation d’une propriété CSS ou d’une balise HTML.
 
 ---
 
