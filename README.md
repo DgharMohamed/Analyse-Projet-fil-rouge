@@ -1,43 +1,34 @@
-# Analyse-Projet-fil-rouge
+## LAB :
 
-## Les outils qui aident le développeur
-
-### Tâche 1 : AI Agent
+### Tâche 1 : Veille technologique(Khadija Grouje)
 
 **Exemple :**  
-Le développeur demande à un AI Agent d’analyser la structure du projet et de lui expliquer les différents fichiers.
+Le développeur recherche régulièrement les nouvelles technologies, outils et méthodes utilisés dans le développement web afin de rester à jour.
 
 ---
 
-### Tâche 2 : Skill
+### Tâche 2 : Solution alternative — AI Agent(Omar Moutalli)
 
 **Exemple :**  
-Le développeur utilise une Skill spécialisée pour effectuer une tâche précise dans son projet.
+Le développeur teste des alternatives aux outils d’AI Agent classiques, comme OpenCode ou Antigravity, afin de comparer leurs fonctionnalités.
 
 ---
 
-### Tâche 3 : Documentation
+### Tâche 3 : Claude Code gratuitement(Ayoub Amaghouch)
 
 **Exemple :**  
-Le développeur consulte la documentation officielle du HTML et du CSS pour comprendre l’utilisation d’une propriété CSS ou d’une balise HTML.
+Le développeur recherche s’il est possible d’utiliser Claude Code gratuitement et quelles sont les limites de la version gratuite.
 
 ---
 
-### Tâche 4 : MCP
+### Tâche 4 : Skills — Claude Code Skills(Brahim medkour)
 
 **Exemple :**  
-Le développeur utilise un MCP pour permettre à son agent d’interagir avec une base de données ou un outil externe.
+Le développeur apprend comment créer et utiliser des Skills pour personnaliser les capacités d’un AI Agent selon les besoins du projet.
 
 ---
 
-### Tâche 5 : Outils de collaboration
+### Tâche 5 : MCP (Mohamed Dghare)
 
 **Exemple :**  
-Deux développeurs travaillent sur le même projet avec Git et GitHub afin de partager leurs modifications et gérer les différentes versions du code.
-
----
-
-### Tâche 6 : Deployment Tools
-
-**Exemple :**  
-Après avoir terminé le projet, le développeur utilise une plateforme de déploiement pour mettre son application en ligne.
+Le développeur découvre comment utiliser MCP pour connecter un AI Agent à différents outils, services ou sources de données.
