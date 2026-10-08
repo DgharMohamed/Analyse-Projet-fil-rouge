@@ -1,13 +1,13 @@
-## LAB : [https://canva.link/92206g6kc0xmtbp](https://canva.link/92206g6kc0xmtbp)
+## LAB :
 
-### Tâche 1 : Veille technologique(Khadija Grouje)
+### Tâche 1 : Veille technologique(Khadija Gerrouje)
 
 **Exemple :**  
 Le développeur recherche régulièrement les nouvelles technologies, outils et méthodes utilisés dans le développement web afin de rester à jour.
 
 ---
 
-### Tâche 2 : Solution alternative — AI Agent(Omar Moutalli)
+### Tâche 2 : Solution alternative — AI Agent(Omar Mouttalie)
 
 **Exemple :**  
 Le développeur teste des alternatives aux outils d’AI Agent classiques, comme OpenCode ou Antigravity, afin de comparer leurs fonctionnalités.

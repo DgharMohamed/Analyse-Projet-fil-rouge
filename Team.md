@@ -2,5 +2,5 @@
  - Mohamed Dghar
  - Ayoub Amaghouch
  - khadija Gerrouj
- - Ibrahim Medkour
+ - Ibrahim Medkour 
  - Omar Mouttalie
