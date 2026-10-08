@@ -1,3 +1,5 @@
+## Presentation : Veille Technologie
+   - link canva : https://canva.link/6mx7z5u1ih84baf
 ## LAB :
 
 ### Tâche 1 : Veille technologique(Khadija Gerrouje)
