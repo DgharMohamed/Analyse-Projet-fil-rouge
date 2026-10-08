@@ -1,5 +1,6 @@
 # GEMINI.md
 
+
 # Présentation du projet
 
 Movie Platform est une plateforme de gestion de films.
