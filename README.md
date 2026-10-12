@@ -1,5 +1,5 @@
-## Liste de Veille : [https://docs.google.com/document/d/1WTRLjk2xaSa9QZroIGwZ2cnBUdRs9TdWavFVfty8KoI/edit?usp=sharing] Liste de veille Technologie
-## Presentation Canva : [https://canva.link/92206g6kc0xmtbp] Canva Presentation
+## Liste de Veille : [https://docs.google.com/document/d/1WTRLjk2xaSa9QZroIGwZ2cnBUdRs9TdWavFVfty8KoI/edit?usp=sharing](Liste de veille Technologie)
+## Presentation Canva : [https://canva.link/92206g6kc0xmtbp](Canva Presentation)
 
 
 ### Tâche 1 : Veille technologique(Khadija Gerrouje)
