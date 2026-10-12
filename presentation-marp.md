@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 theme: default
 paginate: true
 size: 16:9
@@ -376,8 +376,9 @@ skills/
 
 <!-- _class: lead -->
 
-# Thank you for
+# Thank you for 
+# <p class="subtitle">Your Attention</p>
 
 # VEILLE TECH
 
-<p class="subtitle">Your Attention</p>
+
